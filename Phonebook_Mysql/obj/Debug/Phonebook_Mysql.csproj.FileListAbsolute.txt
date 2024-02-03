@@ -1,0 +1,17 @@
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Phonebook_Mysql.exe.config
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Phonebook_Mysql.exe
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Phonebook_Mysql.pdb
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Google.Protobuf.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\MySql.Data.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Renci.SshNet.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\Ubiety.Dns.Core.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\bin\Debug\MySql.Data.xml
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.Form1.resources
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.Properties.Resources.resources
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.csproj.GenerateResource.cache
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.csproj.CoreCompileInputs.cache
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.csproj.CopyComplete
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.exe
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.pdb
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\Phonebook_MySQL_sn\Phonebook_Mysql\obj\Debug\Phonebook_Mysql.csproj.AssemblyReference.cache
